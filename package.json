@@ -1,0 +1,22 @@
+{
+  "name": "pu_entries_server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tertortoise <tertortoise@yandex.ru>",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  }
+}

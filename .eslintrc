@@ -1,0 +1,15 @@
+{
+	"extends": "airbnb-base",
+	"rules": {
+		"no-console": 0,
+		"indent": "off",
+		"no-tabs": "off", 
+		"global-require": "off",
+		"linebreak-style": "off",
+		"no-unused-vars": "warn",
+		"prefer-template": "warn",
+		"no-underscore-dangle": "warn",
+		"function-paren-newline": ["warn", "multiline"],
+		"max-len": "off"
+	}
+}
